@@ -1,0 +1,61 @@
+body {
+	background-color: pink;
+}
+
+.header {
+	background-color:#590FF8;
+	display:flex;
+	margin: 40px;
+	padding:40px;
+	justify-content:space-between;
+}
+font {
+	color:white;
+	font-family:hemi head;
+	font-size:30px;
+	margin:30px;css/main.css
+}
+
+td {
+	font-size:30px;
+}
+
+a {
+	text-decoration:none;
+}
+.in-div {
+	display:flex
+	flex-wrap:wrap;
+
+
+}
+p {
+	font-size:20px;
+}
+
+yemek-clasi {
+
+	font-color:black;
+}
+
+.duyuru_tablosu {
+	background-color: #FAEB1F;
+
+
+
+}
+
+. {
+
+
+}
+
+.index-table {
+	display:flex;
+	justify-content: center;
+}
+
+.yapim-asamasi {
+	font-size:30px;
+
+}
